@@ -64,8 +64,8 @@ collected.
 
 Any change to this policy will be committed to the repository, so its history
 is public and auditable:
-https://github.com/sxz8564/niulai_filter
+https://github.com/laozhuca/niulai_filter
 
 ## Contact
 
-Open an issue at https://github.com/sxz8564/niulai_filter/issues
+Open an issue at https://github.com/laozhuca/niulai_filter/issues

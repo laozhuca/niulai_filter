@@ -109,9 +109,9 @@ unfinished next to those that have it.
 
 | Field | Use |
 | --- | --- |
-| Homepage / Official URL | `https://github.com/sxz8564/niulai_filter` |
-| Support URL | `https://github.com/sxz8564/niulai_filter/issues` |
-| Privacy policy | `https://github.com/sxz8564/niulai_filter/blob/main/PRIVACY.md` |
+| Homepage / Official URL | `https://github.com/laozhuca/niulai_filter` |
+| Support URL | `https://github.com/laozhuca/niulai_filter/issues` |
+| Privacy policy | `https://github.com/laozhuca/niulai_filter/blob/main/PRIVACY.md` |
 
 All three need the repository to be public — a URL the reviewer cannot open is
 a rejection.
@@ -119,7 +119,7 @@ a rejection.
 One caveat on the official URL: where the dashboard asks for a *verified*
 domain, github.com cannot be verified, because domain verification goes through
 Google Search Console and you do not own github.com. If you hit that, publish
-the repository to GitHub Pages — `sxz8564.github.io` is a domain you can verify
+the repository to GitHub Pages — `laozhuca.github.io` is a domain you can verify
 there — and point the field at that instead.
 
 ## Filling the form
